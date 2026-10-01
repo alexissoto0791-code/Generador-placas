@@ -26,15 +26,6 @@ Aplicación web interactiva para generar placas de características de transform
 
 Los campos marcados con **\*** en la placa (peso, litros de aceite, % Uz, corriente de cortocircuito) son **valores promedio de referencia**, calculados a partir de fichas técnicas de fabricantes bajo norma NTC 818 / ANSI C57.12.00. No reemplazan el dato real obtenido en la prueba de fábrica de cada transformador específico.
 
-## Cómo publicarlo con GitHub Pages
-
-1. Sube el contenido de este repositorio (ya incluye `index.html`).
-2. Ve a **Settings → Pages**.
-3. En **Source**, elige **Deploy from a branch**.
-4. Selecciona la rama `main` y la carpeta **/ (root)**, y guarda.
-5. En 1-2 minutos, GitHub mostrará el enlace público, con el formato:
-   `https://tu-usuario.github.io/nombre-del-repositorio/`
-
 ## Tecnología
 
 Archivo único en HTML, CSS y JavaScript (sin dependencias externas ni backend). Se puede abrir directamente en cualquier navegador sin instalación.
